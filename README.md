@@ -17,9 +17,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=Who%20I%20Am&fontSize=32&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn&desc=A%20quick%20snapshot%20of%20what%20I%20do&descAlignY=90&descSize=14&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=Who%20I%20Am&fontSize=32&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<sub>A quick snapshot of what I do</sub>
 
 </div>
+
+<br/>
 
 ```typescript
 const muhammadUzairKashif = {
