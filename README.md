@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Muhammad%20Uzair%20Kashif&fontSize=42&fontColor=0b1120&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%26%20Automation%20Developer%20%7C%20Bubble.io%20Developer%20%7C%20BBIT%20Student&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/muhammaduzairkashif">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+AI+Applications+%26+Intelligent+Workflows;Python+%7C+Django+%7C+n8n+%7C+Make;Working+with+OpenAI+%2C+Claude+%26+Gemini+APIs;No-Code+%2B+Code+%3D+Automation+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+AI+Applications+%26+Intelligent+Workflows;Python+%7C+Django+%7C+n8n+%7C+Make;Working+with+OpenAI+%2C+Claude+%26+Gemini+APIs;No-Code+%2B+Code+%3D+Automation+Magic" alt="Typing SVG" />
 </a>
 
 <br/>
